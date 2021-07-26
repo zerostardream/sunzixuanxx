@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的网站
 
-You can use the [editor on GitHub](https://github.com/zerostardream/sunzixuan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <html>
   <head>
@@ -127,7 +124,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
               <i class="mdui-icon material-icons">edit</i>
               <a
                 rel="nofollow"
-		href="https://jimowutong888.github.io/scratch/"
+		href="https://github.com/zerostardream/sunzixuan/"
                 class="main-meta-btn"
                 one-link-mark="yes"
                 >Scratch</a
